@@ -1,0 +1,6 @@
+[liveuser@localhost Downloads]$ gpg --verify sha256sum.txt.asc 
+gpg: Signature made Fri 06 Nov 2020 02:53:16 PM UTC using RSA key ID F4A80EB5
+gpg: Good signature from "CentOS-7 Key (CentOS 7 Official Signing Key) <security@centos.org>"
+gpg: WARNING: This key is not certified with a trusted signature!
+gpg:          There is no indication that the signature belongs to the owner.
+Primary key fingerprint: 6341 AB27 53D7 8A78 A7C2  7BB1 24C6 A8A7 F4A8 0EB5
